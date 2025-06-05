@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gonçalo Moreira and I'm a informatics engineer, from Porto.</p>
+<p align="left">My name is Gonçalo Moreira, I'm from Porto and I love technology and coding.</p>
 
 ###
 
